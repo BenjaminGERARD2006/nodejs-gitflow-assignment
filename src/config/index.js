@@ -9,3 +9,4 @@ const configs = {
 };
 
 module.exports = configs[env];
+console.log("Environment loaded:", env);
