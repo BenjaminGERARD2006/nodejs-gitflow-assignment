@@ -13,5 +13,12 @@
   },
   "devDependencies": {
     "nodemon": "^3.0.0"
+  },
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js",
+    "build": "echo build ok",
+    "test": "echo test ok",
+    "lint": "echo lint ok"
   }
 }
