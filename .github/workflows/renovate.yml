@@ -12,6 +12,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: renovatebot/github-action@v40
+      - uses: renovatebot/github-action@v41
         with:
           token: ${{ github.token }}
