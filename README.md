@@ -21,4 +21,5 @@ CREATE TABLE users (
   email VARCHAR(100)
 );
 
+
 Testing Docker workflow
